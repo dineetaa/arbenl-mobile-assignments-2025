@@ -34,7 +34,7 @@
 28. Geospatial Store Locator API — (Not submitted)
 29. Student Performance Analytics Platform — (Not submitted)
 30. Cloud Database Migration Playground — (Not submitted)
-31. Containerized Microservice Deployment — (Not submitted)
+31. Containerized Microservice Deployment — (Submitted by Dineta Avdyli <dineta.avdyli@universitetiaab.com>) — Repo: https://github.com/dineetaa/banking-frontend.git Repo: https://github.com/dineetaa/banking-api.git — Demo: https://bankingfrontend-nu.vercel.app/)
 32. CI/CD Pipeline for a Cloud Web App — (Not submitted)
 33. Infrastructure as Code Starter Stack — (Not submitted)
 34. Blue-Green Deployment Simulator — (Not submitted)
